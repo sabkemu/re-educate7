@@ -9,8 +9,10 @@ div{
     border-radius: 5px;
 }
 .first{
-
+    width: 500px;
+    height: 500px;
 }
 .second{
-    
+    background-image: url(./photos/walking.jpeg);
+    background-position: center;
 }
