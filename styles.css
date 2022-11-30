@@ -1,0 +1,16 @@
+div{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%);
+    border-radius: 5px;
+}
+.first{
+
+}
+.second{
+    
+}
